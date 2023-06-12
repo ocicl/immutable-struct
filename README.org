@@ -1,0 +1,10 @@
+* immutable-struct
+
+Simple library that encourage the use of functional programming + pattern matching.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/immutable-struct.git   |
+| commit  | 3ddf105  |
+| systems | immutable-struct |
+|---------+-------------------------------------------|
+
