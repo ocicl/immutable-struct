@@ -8,3 +8,4 @@ Simple library that encourage the use of functional programming + pattern matchi
 | systems | immutable-struct |
 |---------+-------------------------------------------|
 
+ 
